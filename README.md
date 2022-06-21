@@ -1,4 +1,3 @@
 # AudioVisualEffectsVR
-A VR game made to demonstrate the importance of audio and visual effects in VR applications.
-Implemented in Unity 2018.2.18f1.
-VR is implemented using SteamVR.
+A simple Unity VR game made to demonstrate the importance of audio and visual effects in VR applications.
+The application guides you through a simple dungeon while showing you different audio and visual effects.
